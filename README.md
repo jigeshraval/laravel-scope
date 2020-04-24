@@ -4,7 +4,7 @@ Define the scope, Admin or Front, of a Laravel application so that the resources
 
 # Installation
 
-1. composer install jigeshraval/laravel-scope
+1. composer require jigeshraval/laravel-scope
 2. Add "AdLara\Boot\BootstrapServiceProvider::class" in the providers array in config/app.php 
 3. Run, php artisan vendor:publish --tag=adlarascope
 
