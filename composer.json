@@ -1,0 +1,17 @@
+{
+    "name": "jigeshraval/laravel-scope",
+    "description": "Define the scope, Admin or Front, of a Laravel application so that the resources, controllers, and routes can be splitted",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jigesh Raval",
+            "email": "jigesh@jigeshraval.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AdLara\\Scope\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
